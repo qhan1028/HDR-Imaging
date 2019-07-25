@@ -1,4 +1,4 @@
-# VFX Project 1
+# VFX Project 1 - HDR Imaging
 
 ## 0. Team Members
 * R07944007 林良翰
